@@ -46,8 +46,6 @@
 
 ---
 
-## 谁做的？
+## 有问题？
 
-一个有 AI 检测焦虑的学术打工人。更多分享见小红书 👇
-
-[📕 我的小红书主页](https://www.xiaohongshu.com/user/profile/61f54fa30000000010008a14?channel_type=web_note_detail_r10&parent_page_channel_type=web_profile_board&xsec_token=ABa_IiYoaOfWBtWam6lrTb4-wb0swjQ3kMXAkkRfNDkCc=&xsec_source=pc_note&wechatWid=73ccaa15501db316b29f52bf2dfdcb30&wechatOrigin=menu)
+欢迎来小红书找我 👉 [@我的小红书](https://www.xiaohongshu.com/user/profile/61f54fa30000000010008a14?channel_type=web_note_detail_r10&parent_page_channel_type=web_profile_board&xsec_token=ABa_IiYoaOfWBtWam6lrTb4-wb0swjQ3kMXAkkRfNDkCc=&xsec_source=pc_note&wechatWid=73ccaa15501db316b29f52bf2dfdcb30&wechatOrigin=menu)
