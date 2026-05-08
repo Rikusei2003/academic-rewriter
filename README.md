@@ -1,4 +1,4 @@
-# Natural Rewriter —— 让你的学术写作更像"你自己写的"
+# Natural Rewriter —— 让你的写作更像"你自己写的"
 
 > 代码和论文都需要打磨。这个工具帮你的学术文本更自然、更易读，像自己敲出来的，不是模板生成的。
 
@@ -48,4 +48,4 @@
 
 ## 有问题？
 
-欢迎来小红书找我 👉 [@我的小红书](https://www.xiaohongshu.com/user/profile/61f54fa30000000010008a14?channel_type=web_note_detail_r10&parent_page_channel_type=web_profile_board&xsec_token=ABa_IiYoaOfWBtWam6lrTb4-wb0swjQ3kMXAkkRfNDkCc=&xsec_source=pc_note&wechatWid=73ccaa15501db316b29f52bf2dfdcb30&wechatOrigin=menu)
+欢迎来小红书找我 👉 [@Riku](https://www.xiaohongshu.com/user/profile/61f54fa30000000010008a14?channel_type=web_note_detail_r10&parent_page_channel_type=web_profile_board&xsec_token=ABa_IiYoaOfWBtWam6lrTb4-wb0swjQ3kMXAkkRfNDkCc=&xsec_source=pc_note&wechatWid=73ccaa15501db316b29f52bf2dfdcb30&wechatOrigin=menu)
